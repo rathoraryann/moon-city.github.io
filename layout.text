@@ -1,0 +1,9 @@
+navbar:
+    logo
+    menu
+        home about contact services
+hero
+    welcome to moon city
+    images
+heading
+content
